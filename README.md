@@ -1,6 +1,6 @@
 # Auto Launch OpenDesign in Windows
 
-A Windows batch script that starts your local [OpenDesign](https://opendesign.dev) dev server, automatically detects the randomized port it binds to, and opens Brave Browser directly to the correct URL — no manual copy-pasting required.
+A Windows batch script that starts your local [OpenDesign]([https://opendesign.dev](https://github.com/nexu-io/open-design)) dev server, automatically detects the randomized port it binds to, and opens Brave Browser directly to the correct URL — no manual copy-pasting required.
 
 ---
 
